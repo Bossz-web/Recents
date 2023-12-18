@@ -1,0 +1,110 @@
+body {
+
+}
+
+nav {
+    width: 100%;
+}
+
+#main-nav ul li a {
+    color: white;
+}
+
+.X {
+    line-height: 4px;
+}
+
+.Two-button  button{
+    margin: 10px;
+}
+#Top-content {
+    background: linear-gradient(139.69deg, rgb(31, 26, 1) 15.01%, #000000 132.53%);
+    height: 552px;
+}
+#mmmm {
+    background-image: url(Images/Group\ 28.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#First-contents {
+    border-radius: 20px;
+    background: #FAFAFA;
+    margin: auto;
+    width: 89%;
+    height: 221px;
+ 
+}
+
+#Fourth-content {
+    background-color: #FAFAFA;
+}
+
+#Fifth-content {
+    background: #ffff;
+    width: 100%;
+    height: 100%;
+}
+
+#yyyy {
+    background-image: url(Images/Group\ 28.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+#vvvv p{
+    color: #d9d9d9;
+}
+
+.pppp {
+    background-image: url(Images/circleUnder.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 25%;
+}
+
+#IX {
+    background-image: url(Images/Frame\ 116.png);
+    width: 100%;
+    height: 541px;
+}
+
+#Footer {
+    background-color: black;
+    color: white;
+    height: 100%;
+    
+}
+
+.footer-ul  {
+    list-style-type: none;
+    text-align: center;
+   
+}
+.footer-ul li {
+    padding: 8px 0px;
+}
+
+.header-n {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.header-n li {
+    margin: 7px;
+}
+
+.header-n li a img {
+    width: 80%;
+}
+
+
+
+
+
